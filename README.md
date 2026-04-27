@@ -69,7 +69,7 @@ Integration with Face Recognition
 Emotion detection (happy, sad, angry, etc.)
 Mask detection
 Age and gender prediction
-Cloud-based deployment (Flask / FastAPI / Django)
+Cloud-based deployment (Django)
 Mobile app integration
 🤝 Contribution
 
