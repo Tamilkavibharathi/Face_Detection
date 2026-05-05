@@ -80,6 +80,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 This project is licensed under the MIT License.
 
 🙌 Acknowledgements
-OpenCV community
-Pre-trained model contributors
-Computer vision research community
+
